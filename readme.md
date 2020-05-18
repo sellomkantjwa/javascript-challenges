@@ -28,7 +28,7 @@ Click the "Use this template" green button above to create your own **private** 
 
 ### Install the dependencies
 You will need [node.js](https://nodejs.org/en/download/) to run your solutions.
-Assuming that's installed on your system, install the dependencies for all the challenges in the root of this repo.
+Assuming that's installed on your system, install the dependencies for all the challenges in the root of this repo:
 
 ```
 npm i
