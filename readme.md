@@ -22,7 +22,7 @@ You should probably start with the beginner challenges, and work your way upward
 
 ## Getting Started
 
-### ᛘ Creating your own repo
+### ➕Creating your own repo
 
 Click the "Use this template" green button above to create your own **private** instance of this repo - we don't want spoilers out in the wild. You should add me as a collaborator to it, so I can see your progress, which you can commit as you go.
 
