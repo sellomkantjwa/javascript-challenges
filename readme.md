@@ -1,35 +1,6 @@
 # JavaScript Challenges
 
-A collection of JavaScript coding challenges.
-
-## Getting Started
-
-The only dependencies in this repo are for running the tests, which are written
-in Tape and Sinon.
-
-Install the dependencies
-
-```
-npm i
-```
-
-Then, in each challenge folder, you can run the following to see the tests for
-that challenge.
-
-```
-node <challenge>-test.js
-```
-
-## Solving Challenges
-
-This repo is only a set of challenges, it does not include the answers to any of
-the challenges.
-
-If you implement a solution of your own, please **do not** post it publicly on
-this repository. Opening an issue or a pull request with a solution spoils the
-experience of the challenge for other developers who find this repository.
-
-## Challenges
+You should probably start with the beginner challenges, and work your way upwards. Ask me for help if you get stuck!
 
 ### Beginner
 
@@ -49,8 +20,25 @@ experience of the challenge for other developers who find this repository.
 * [Recreate setInterval](/setinterval/)
 * [Recreate Promise.all](/promise-dot-all/)
 
-## Relevant Reading
+## Getting Started
 
-* [10 Interview Questions Every JavaScript Developer Should Know][js interview questions article]
+### Creating your own repo
 
-[js interview questions article]: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+Click the "Use this template" green button above to create your own **private** instance of this repo - we don't want spoilers out in the wild. You should add me as a collaborator to it, so I can see your progress, which you can commit as you go.
+
+### Install the dependencies
+You will need [node.js](https://nodejs.org/en/download/) to run your solutions.
+Assuming that's installed on your system, install the dependencies for all the challenges in the root of this repo.
+
+```
+npm i
+```
+
+### Solve the challenges 😬
+
+For each challenge, and within its corresponding folder:
+- Understand the challenge via the `readme.md`
+- Edit the corresponding `.js` file
+- Test it by running `node <challenge>-test.js` 
+
+
