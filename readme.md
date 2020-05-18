@@ -2,19 +2,19 @@
 
 You should probably start with the beginner challenges, and work your way upwards. Ask me for help if you get stuck!
 
-### 😊Beginner
+### 😊 Beginner
 
 * [Babylonian square root method](/babylonian-method/)
 * [Number frequency](/number-frequency/)
 
-### 🤓Intermediate
+### 🤓 Intermediate
 
 * [Stack machine calculator](/stack-machine-calculator/)
 * [Target sum exists](/target-sum-exists/)
 * [Balanced Parentheses](/balanced-parens/)
 * [Add eventing](/add-eventing/)
 
-### 🤕Advanced
+### 🤕 Advanced
 
 * [Object diffing](/object-diff/)
 * [Recreate setInterval](/setinterval/)
@@ -26,7 +26,7 @@ You should probably start with the beginner challenges, and work your way upward
 
 Click the "Use this template" green button above to create your own **private** instance of this repo - we don't want spoilers out in the wild. You should add me as a collaborator to it, so I can see your progress, which you can commit as you go.
 
-### 📦Install the dependencies
+### 📦 Install the dependencies
 You will need [node.js](https://nodejs.org/en/download/) to run your solutions.
 Assuming that's installed on your system, install the dependencies for all the challenges in the root of this repo:
 
@@ -34,7 +34,7 @@ Assuming that's installed on your system, install the dependencies for all the c
 npm i
 ```
 
-### 🤔Solve the challenges
+### 🤔 Solve the challenges
 
 For each challenge, and within its corresponding folder:
 - Understand the challenge via the `readme.md`
